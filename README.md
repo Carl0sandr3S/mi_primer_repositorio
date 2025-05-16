@@ -1,2 +1,3 @@
 # mi_primer_repositorio
-mi primer repositorio
+mi primer repositori
+desde  el local|
